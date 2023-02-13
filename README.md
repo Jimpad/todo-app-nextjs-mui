@@ -92,7 +92,7 @@ You can check out the [Next.js GitHub repository](https://github.com/vercel/next
 
 <!-- FOOTER -->
 <div align="center">
-<a href="https://todo-jimpad.vercel.app/">View Demo</a>
+<a href="https://jimpad-todo.vercel.app/">View Demo</a>
     ·
     <a href="https://github.com/Jimpad/todo-app-nextjs-mui-typescript/issues">Request Feature</a>
     ·
