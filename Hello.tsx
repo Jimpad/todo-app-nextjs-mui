@@ -1,0 +1,1 @@
+<GreetPad message='Welcome!' />
